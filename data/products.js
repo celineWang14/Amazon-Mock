@@ -656,5 +656,18 @@ const products = [
       "apparel",
       "mens"
     ]
+  },
+  {
+    id:"id1",
+    image:"images/products/backpack.jpg",
+    name:"The Best Backpack in the World",
+    rating:{
+      stars:4.5,
+      count:4323
+    },
+    priceCents:1200,
+    keywords:[
+      "mens"
+    ]
   }
 ];
